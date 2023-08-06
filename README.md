@@ -1,3 +1,10 @@
+# GTD: GET THINGS DONE
+
+Gtd is basically a Todo App built with react
+
+link: https://getthingsdone.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
